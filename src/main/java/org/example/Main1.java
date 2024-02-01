@@ -10,7 +10,6 @@ public class Main1 {
         int rowLen = matrix[0].length;
         int colLen = matrix.length;
 
-        int
 
         return answer;
     }
